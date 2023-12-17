@@ -24,28 +24,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Project/trello-clone/app/(landing-page)/_components",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "D:\\Project\\trello-clone\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
-    "ts.external.directory.path": "D:\\Project\\trello-clone\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/trello-clone&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\Project\\trello-clone\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Project\\trello-clone\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Project\trello-clone\app\(landing-page)\_components" />
       <recent name="D:\Project\trello-clone" />
+      <recent name="D:\Project\trello-clone\app\api" />
+      <recent name="D:\Project\trello-clone\components" />
+      <recent name="D:\Project\trello-clone\lib" />
+      <recent name="D:\Project\trello-clone\app\(main-container)\(dashboard)\organization\[organizationId]" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\trello-clone\public" />
@@ -60,7 +64,12 @@
       <option name="presentableId" value="Default" />
       <updated>1702179567302</updated>
       <workItem from="1702179568550" duration="511000" />
-      <workItem from="1702183242832" duration="5051000" />
+      <workItem from="1702183242832" duration="9481000" />
+      <workItem from="1702215997726" duration="2494000" />
+      <workItem from="1702269970109" duration="1543000" />
+      <workItem from="1702271526488" duration="4167000" />
+      <workItem from="1702363476360" duration="12635000" />
+      <workItem from="1702806510327" duration="1047000" />
     </task>
     <servers />
   </component>
