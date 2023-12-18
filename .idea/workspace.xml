@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8a409b2-ecc6-4b93-93c8-cca2e97086f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/(privacy)/privacy-policy/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(privacy)/terms/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(landing-page)/_components/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(landing-page)/_components/footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(landing-page)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(landing-page)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(main-container)/(dashboard)/board/[boardId]/_components/board-options.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main-container)/(dashboard)/board/[boardId]/_components/board-options.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(main-container)/(dashboard)/board/[boardId]/_components/card-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main-container)/(dashboard)/board/[boardId]/_components/card-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(main-container)/(dashboard)/board/[boardId]/_components/list-options.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main-container)/(dashboard)/board/[boardId]/_components/list-options.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(main-container)/(dashboard)/board/[boardId]/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main-container)/(dashboard)/board/[boardId]/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(main-container)/(dashboard)/board/[boardId]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main-container)/(dashboard)/board/[boardId]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(main-container)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(main-container)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/form/form-submit.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/form/form-submit.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/logo.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/modals/card-modal/actions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/modals/card-modal/actions.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/modals/card-modal/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/modals/card-modal/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/providers/query-provider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/providers/query-provider.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/site.ts" beforeDir="false" afterPath="$PROJECT_DIR$/config/site.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/use-action.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/use-action.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/use-mobile-sidebar.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(privacy)/privacy-policy/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(privacy)/privacy-policy/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(privacy)/terms/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(privacy)/terms/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +82,7 @@
       <workItem from="1702271526488" duration="4167000" />
       <workItem from="1702363476360" duration="12635000" />
       <workItem from="1702806510327" duration="1681000" />
-      <workItem from="1702856129288" duration="7071000" />
+      <workItem from="1702856129288" duration="7764000" />
     </task>
     <servers />
   </component>
