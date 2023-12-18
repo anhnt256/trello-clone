@@ -8,10 +8,10 @@ export const Footer = () => {
       <div className="md:max-w-screen-2xl mx-auto flex items-center w-full justify-between">
         <div className="space-x-4 md:block md:w-auto flex items-center justify-between w-full">
           <Button size="sm" variant="ghost" asChild>
-            <Link href="/sign-in">Privacy Policy</Link>
+            <Link href="/privacy-policy">Privacy Policy</Link>
           </Button>
           <Button size="sm" variant="ghost" asChild>
-            <Link href="/sign-up">Terms of Service</Link>
+            <Link href="/terms">Terms of Service</Link>
           </Button>
         </div>
       </div>
