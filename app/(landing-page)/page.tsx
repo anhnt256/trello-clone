@@ -15,20 +15,22 @@ const LandingPage = () => {
           No 1 task management
         </div>
         <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6">
-          Taskify helps team move
+          Work 247 helps make
         </h1>
         <div
           className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white px-4 p-2 rounded-md
         pb-4 w-fit"
         >
-          word forward
+          work easier
         </div>
       </div>
       <div className="text-sm md:text-xl text-neutral-400 mt-4 max-w-xs">
-        Meo Meo, gau gau
+        Our website offers a Trello-like task management solution, enabling easy
+        task assignment, tracking, and collaboration for teams, with a
+        user-friendly and customizable interface.
       </div>
       <Button size="lg" className="mt-6" asChild>
-        <Link href="/sign-up">Get Taskify for free</Link>
+        <Link href="/sign-up">Create free account Now</Link>
       </Button>
     </div>
   );
