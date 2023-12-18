@@ -9,7 +9,7 @@ interface FormSubmitProps {
   children: React.ReactNode;
   disabled?: boolean;
   className?: string;
-  size: "sm" | "lg" | "inline";
+  size?: "sm" | "lg" | "inline";
   variant?:
     | "default"
     | "destructive"
